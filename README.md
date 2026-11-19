@@ -2,6 +2,8 @@
 
 A Generative AI web app that compares your resume with a job description and gives you a match score, strengths, missing skills, and concrete suggestions to improve. It can also rewrite your resume to fit the job description.
 
+Live Link : https://resume-analyzer-fsrssktpthkuxgjdw8y3sx.streamlit.app/
+
 ## Features
 - Upload a resume as a PDF and extract its text (PyMuPDF)
 - Match score (0-100) against a job description
